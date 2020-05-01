@@ -28,7 +28,9 @@ public class LogginTest extends BaseTest {
 		//test.log(LogStatus.PASS, "Test case Passed");
 		
 	//	extent.endTest(test);
-
+		System.out.println("Welcome");
 	}
+	
+	//System.out.println("Welcome");
 
 }
