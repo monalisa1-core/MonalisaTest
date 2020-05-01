@@ -29,6 +29,7 @@ public class LogginTest extends BaseTest {
 		
 	//	extent.endTest(test);
 		System.out.println("Welcome");
+		System.out.println("****");
 	}
 	
 	//System.out.println("Welcome");
